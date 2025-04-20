@@ -10,9 +10,12 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+#  AI ChatBot Edtech: 
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+ Tech Stack- Dialogflow, Intents, Entities
+ Developed an AI chatbot using Dialogflow, creating various intents and entities.
+ Implemented training phrases,fallback intents and multiple responses to enhance query handling and accuracy.
+ Integrated FAQ data via CSV files to enhance response precision
 
 ## Header 2
 
